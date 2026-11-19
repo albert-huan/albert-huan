@@ -1,7 +1,41 @@
-### Hi there, I'm [Albert.Huan] 👋
+<div align="center">
 
-**I'm a Data-driven Indie Developer & SAS/R Programmer.** 
-我是一个跨界打工人：拥有数据与统计分析的背景，同时热爱构建属于自己的数字产品。
+# 你好，我是 Albert Huan 👋
 
-- 📊 **Day job / Core skills:** Clinical programming, Data analysis using **SAS** & **R**.
-- 🌱 **Currently learning:** [AI Agent]
+### 临床数据统计从业者 · 业余独立开发者
+
+用严谨的数据方法理解问题，也用代码把想法做成小工具。
+
+[![SAS](https://img.shields.io/badge/SAS-临床编程-0076A8?style=flat-square&logo=sas&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-数据分析-276DC3?style=flat-square&logo=r&logoColor=white)](#)
+[![Indie Dev](https://img.shields.io/badge/Indie%20Dev-持续创造-222222?style=flat-square&logo=github&logoColor=white)](#)
+
+</div>
+
+---
+
+## 关于我
+
+我是一名关注临床数据与统计分析的从业者，也是一位喜欢在业余时间独立开发的实践者。工作中，我重视数据质量、分析逻辑和可复现性；工作之外，我喜欢把日常遇到的问题转化成简单、实用的数字产品。
+
+- 📊 **临床数据与统计：** 使用 **SAS**、**R** 进行临床编程与数据分析
+- 🛠️ **独立开发：** 从一个小问题出发，尝试设计、开发并打磨可用的工具
+- 🌱 **持续学习：** 探索 **AI Agent** 与数据工作流的结合
+- 🔒 **工作原则：** 尊重隐私与数据安全，不在公开项目中分享敏感或可识别的临床数据
+
+## 我关注的方向
+
+- 让重复的数据处理和分析流程更清晰、更可靠
+- 用自动化减少琐碎工作，同时保留必要的检查与验证
+- 做小而有用、能解决真实问题的独立项目
+- 探索 AI 如何辅助研究与开发，并审慎评估其输出
+
+## 正在这里做什么
+
+这个主页会记录我的学习、实验和独立开发尝试。项目还在逐步积累中，欢迎关注后续更新；如果你也对临床数据、统计编程或独立开发感兴趣，欢迎交流。
+
+<div align="center">
+
+**严谨分析 · 持续构建 · 认真交付**
+
+</div>
